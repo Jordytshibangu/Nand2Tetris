@@ -13,5 +13,20 @@ CHIP Inc16 {
     OUT out[16];
 
     PARTS:
-   // Put you code here:
+    Add16(a=in, b=true, out=out);
+    // Add16(a=in[1], b=true, out=out[1]);
+    // Add16(a=in[2], b=true, out=out[2]);
+    // Add16(a=in[3], b=true, out=out[3]);
+    // Add16(a=in[4], b=true, out=out[4]);
+    // Add16(a=in[5], b=true, out=out[5]);
+    // Add16(a=in[6], b=true, out=out[6]);
+    // Add16(a=in[7], b=true, out=out[7]);
+    // Add16(a=in[8], b=true, out=out[8]);
+    // Add16(a=in[9], b=true, out=out[9]);
+    // Add16(a=in[10], b=true, out=out[10]);
+    // Add16(a=in[11], b=true, out=out[11]);
+    // Add16(a=in[12], b=true, out=out[12]);
+    // Add16(a=in[13], b=true, out=out[13]);
+    // Add16(a=in[14], b=true, out=out[14]);
+    // Add16(a=in[15], b=true, out=out[15]);
 }
